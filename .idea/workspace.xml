@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb00cf8b-32e8-4ac5-a47b-01bc6037d25b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/hello.js" beforeDir="false" afterPath="$PROJECT_DIR$/hello.js" afterDir="false" />
-    </list>
+    <list default="true" id="fb00cf8b-32e8-4ac5-a47b-01bc6037d25b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +28,10 @@
             <RecentBranchesForRepo>
               <option name="branches">
                 <list>
+                  <RecentBranch>
+                    <option name="branchName" value="nofal-branch" />
+                    <option name="lastUsedInstant" value="1743955275" />
+                  </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="nofal_code_dev_branch" />
                     <option name="lastUsedInstant" value="1743953380" />
@@ -95,7 +97,7 @@
       <workItem from="1743790005184" duration="1078000" />
       <workItem from="1743840376967" duration="5757000" />
       <workItem from="1743868150854" duration="1082000" />
-      <workItem from="1743953184675" duration="1140000" />
+      <workItem from="1743953184675" duration="1984000" />
     </task>
     <servers />
   </component>
